@@ -1,0 +1,30 @@
+# 忽略 Unity 自动生成的文件夹
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]ser[Ss]ettings/
+
+# 忽略自动生成的工程文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.slnx
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 忽略系统隐藏文件
+.DS_Store
+Thumbs.db
